@@ -33,6 +33,24 @@ Other files in `results/`:
 | `workflow-steps.tsv` | Per-run result of each step of the release workflow's DIP stage (`tools/run_ci_steps.py`) |
 | `premis-events.tsv` | Comparison of PREMIS object digests with PREMIS event digests. F1-01 is the only F1 run compared; F2 cannot be unpacked and shows the error. |
 
+## Offline and JavaScript measurements
+
+`tools/offline_dip.py` opens each page of a DIP in Chromium, with and without
+network access beyond the local server. `tools/nojs_dip.py` opens each page with
+JavaScript on and off. A page meets the criterion when at least 90% of its text and
+elements remain; the offline test also requires no new script errors.
+
+| File | Content |
+|---|---|
+| `results/offline-v1.1.0.tsv`, `results/nojs-v1.1.0.tsv` | DIP of v1.1.0, with libraries bundled in the source |
+| `results/offline-v1.0.0.tsv`, `results/nojs-v1.0.0.tsv` | DIP of v1.0.0, with libraries loaded from their distributors |
+
+The article reports 119 pages for v1.1.0. It excludes one site-ownership verification
+page and four `*-en.html` redirect pages from the 124 HTML files. For v1.0.0 it
+reports 66 pages; `offline-v1.0.0.tsv` also lists the 182 pages of `snorql-docs`.
+These two scripts need Playwright with Chromium on the host:
+`python offline_dip.py <extracted DIP> <output TSV>`.
+
 ## Re-running
 
 Docker and zsh are required. Comments in the scripts are in Japanese.

@@ -1,0 +1,250 @@
+page	group	works_offline	text_on	text_off	elems_on	elems_off	blocked	new_errors
+404.html	404.html	1	58	58	0	0		
+bibi/index.html	bibi	1	457	457	19	19		
+google42e5d8b9a7f8c8d9.html	verification	1	53	53	0	0		
+html/01.html	html	0	12013	11897	23	7	script:1;stylesheet:1	Mirador is not defined
+html/02.html	html	0	22479	22363	23	7	script:1;stylesheet:1	Mirador is not defined
+html/03.html	html	0	5447	5331	23	7	script:1;stylesheet:1	Mirador is not defined
+html/04.html	html	0	23075	22959	23	7	script:1;stylesheet:1	Mirador is not defined
+html/05.html	html	0	22773	22657	23	7	script:1;stylesheet:1	Mirador is not defined
+html/06.html	html	0	15279	15163	23	7	script:1;stylesheet:1	Mirador is not defined
+html/07.html	html	0	13403	13287	23	7	script:1;stylesheet:1	Mirador is not defined
+html/08.html	html	0	5093	4977	23	7	script:1;stylesheet:1	Mirador is not defined
+html/09.html	html	0	22126	22010	23	7	script:1;stylesheet:1	Mirador is not defined
+html/10.html	html	0	23517	23401	23	7	script:1;stylesheet:1	Mirador is not defined
+html/11.html	html	0	2059	1943	23	7	script:1;stylesheet:1	Mirador is not defined
+html/12.html	html	0	20620	20504	23	7	script:1;stylesheet:1	Mirador is not defined
+html/13.html	html	0	18763	18647	23	7	script:1;stylesheet:1	Mirador is not defined
+html/14.html	html	0	15781	15665	23	7	script:1;stylesheet:1	Mirador is not defined
+html/15.html	html	0	11435	11319	23	7	script:1;stylesheet:1	Mirador is not defined
+html/16.html	html	0	2441	2325	23	7	script:1;stylesheet:1	Mirador is not defined
+html/17.html	html	0	9078	8962	23	7	script:1;stylesheet:1	Mirador is not defined
+html/18.html	html	0	10247	10131	23	7	script:1;stylesheet:1	Mirador is not defined
+html/19.html	html	0	14759	14643	23	7	script:1;stylesheet:1	Mirador is not defined
+html/20.html	html	0	10061	9945	23	7	script:1;stylesheet:1	Mirador is not defined
+html/21.html	html	0	24319	24203	23	7	script:1;stylesheet:1	Mirador is not defined
+html/22.html	html	0	19512	19396	23	7	script:1;stylesheet:1	Mirador is not defined
+html/23.html	html	0	7106	6990	23	7	script:1;stylesheet:1	Mirador is not defined
+html/24.html	html	0	10147	10031	23	7	script:1;stylesheet:1	Mirador is not defined
+html/25.html	html	0	9449	9333	23	7	script:1;stylesheet:1	Mirador is not defined
+html/26.html	html	0	10728	10612	23	7	script:1;stylesheet:1	Mirador is not defined
+html/27.html	html	0	1802	1686	23	7	script:1;stylesheet:1	Mirador is not defined
+html/28.html	html	0	8818	8702	23	7	script:1;stylesheet:1	Mirador is not defined
+html/29.html	html	0	13469	13353	23	7	script:1;stylesheet:1	Mirador is not defined
+html/30.html	html	0	6870	6754	23	7	script:1;stylesheet:1	Mirador is not defined
+html/31.html	html	0	17685	17569	23	7	script:1;stylesheet:1	Mirador is not defined
+html/32.html	html	0	9086	8970	23	7	script:1;stylesheet:1	Mirador is not defined
+html/33.html	html	0	11202	11086	23	7	script:1;stylesheet:1	Mirador is not defined
+html/34.html	html	0	48965	48849	23	7	script:1;stylesheet:1	Mirador is not defined
+html/35.html	html	0	49304	49188	23	7	script:1;stylesheet:1	Mirador is not defined
+html/36.html	html	0	19442	19326	23	7	script:1;stylesheet:1	Mirador is not defined
+html/37.html	html	0	8947	8831	23	7	script:1;stylesheet:1	Mirador is not defined
+html/38.html	html	0	7022	6906	23	7	script:1;stylesheet:1	Mirador is not defined
+html/39.html	html	0	34115	33999	23	7	script:1;stylesheet:1	Mirador is not defined
+html/40.html	html	0	9105	8989	23	7	script:1;stylesheet:1	Mirador is not defined
+html/41.html	html	0	10296	10180	23	7	script:1;stylesheet:1	Mirador is not defined
+html/42.html	html	0	6658	6542	23	7	script:1;stylesheet:1	Mirador is not defined
+html/43.html	html	0	6195	6079	23	7	script:1;stylesheet:1	Mirador is not defined
+html/44.html	html	0	19488	19372	23	7	script:1;stylesheet:1	Mirador is not defined
+html/45.html	html	0	18250	18134	23	7	script:1;stylesheet:1	Mirador is not defined
+html/46.html	html	0	17785	17669	23	7	script:1;stylesheet:1	Mirador is not defined
+html/47.html	html	0	42555	42439	23	7	script:1;stylesheet:1	Mirador is not defined
+html/48.html	html	0	8931	8815	23	7	script:1;stylesheet:1	Mirador is not defined
+html/49.html	html	0	44509	44393	23	7	script:1;stylesheet:1	Mirador is not defined
+html/50.html	html	0	30713	30597	23	7	script:1;stylesheet:1	Mirador is not defined
+html/51.html	html	0	34168	34052	23	7	script:1;stylesheet:1	Mirador is not defined
+html/52.html	html	0	27341	27225	23	7	script:1;stylesheet:1	Mirador is not defined
+html/53.html	html	0	31277	31161	23	7	script:1;stylesheet:1	Mirador is not defined
+html/54.html	html	0	8324	8208	23	7	script:1;stylesheet:1	Mirador is not defined
+index-en.html	index-en.html	0	7132	4713	16	16	image:2;script:2;stylesheet:3	$ is not defined
+index.html	index.html	0	4818	2399	16	16	image:2;script:2;stylesheet:3	$ is not defined
+schema/tei_kouigenji.html	schema	1	179028	180147	3069	3069	stylesheet:2	
+snorql/codemirror/demo/activeline.html	snorql-docs	1	1295	1295	5	5	font:1	
+snorql/codemirror/demo/anywordhint.html	snorql-docs	1	1345	1345	5	5	font:1	
+snorql/codemirror/demo/bidi.html	snorql-docs	1	1723	1723	5	5	font:1	
+snorql/codemirror/demo/btree.html	snorql-docs	1	189	189	5	5	font:1	
+snorql/codemirror/demo/buffers.html	snorql-docs	1	1858	1858	5	5	font:1	
+snorql/codemirror/demo/changemode.html	snorql-docs	1	411	411	5	5	font:1	
+snorql/codemirror/demo/closebrackets.html	snorql-docs	1	664	664	5	5	font:1	
+snorql/codemirror/demo/closetag.html	snorql-docs	1	58	58	5	5	font:1	
+snorql/codemirror/demo/complete.html	snorql-docs	1	1340	1340	5	5	font:1	
+snorql/codemirror/demo/emacs.html	snorql-docs	1	872	872	5	5	font:1	
+snorql/codemirror/demo/folding.html	snorql-docs	1	2070	2070	5	5	font:1	
+snorql/codemirror/demo/fullscreen.html	snorql-docs	1	1754	1754	5	5	font:1	
+snorql/codemirror/demo/hardwrap.html	snorql-docs	1	1168	1168	5	5	font:1	
+snorql/codemirror/demo/html5complete.html	snorql-docs	1	1087	1087	5	5	font:1	
+snorql/codemirror/demo/indentwrap.html	snorql-docs	1	1160	1160	5	5	font:1	
+snorql/codemirror/demo/lint.html	snorql-docs	1	1815	1815	5	5	font:1;script:3	
+snorql/codemirror/demo/loadmode.html	snorql-docs	1	315	315	5	5	font:1	
+snorql/codemirror/demo/marker.html	snorql-docs	1	613	613	5	5	font:1	
+snorql/codemirror/demo/markselection.html	snorql-docs	1	551	551	5	5	font:1	
+snorql/codemirror/demo/matchhighlighter.html	snorql-docs	1	1608	1608	5	5	font:1	
+snorql/codemirror/demo/matchtags.html	snorql-docs	1	1056	1056	5	5	font:1	
+snorql/codemirror/demo/merge.html	snorql-docs	0	3141	3137	5	5	font:1;script:1	diff_match_patch is not defined
+snorql/codemirror/demo/multiplex.html	snorql-docs	1	580	580	5	5	font:1	
+snorql/codemirror/demo/mustache.html	snorql-docs	1	452	452	5	5	font:1	
+snorql/codemirror/demo/panel.html	snorql-docs	1	1136	1136	5	5	font:1	
+snorql/codemirror/demo/placeholder.html	snorql-docs	1	302	302	5	5	font:1	
+snorql/codemirror/demo/preview.html	snorql-docs	1	618	618	6	6	font:1	
+snorql/codemirror/demo/requirejs.html	snorql-docs	0	2707	275	5	5	font:1;script:1	require is not defined
+snorql/codemirror/demo/resize.html	snorql-docs	1	287	287	5	5	font:1	
+snorql/codemirror/demo/rulers.html	snorql-docs	1	838	838	5	5	font:1	
+snorql/codemirror/demo/runmode.html	snorql-docs	1	657	657	5	5	font:1	
+snorql/codemirror/demo/search.html	snorql-docs	1	2271	2271	5	5	font:1	
+snorql/codemirror/demo/simplemode.html	snorql-docs	1	4904	4904	5	5	font:1	
+snorql/codemirror/demo/simplescrollbars.html	snorql-docs	1	2385	2385	5	5	font:1	
+snorql/codemirror/demo/spanaffectswrapping_shim.html	snorql-docs	1	332	332	5	5	font:1	
+snorql/codemirror/demo/sublime.html	snorql-docs	1	1753	1753	5	5	font:1	
+snorql/codemirror/demo/tern.html	snorql-docs	1	1087	1087	5	5	font:1;script:10;xhr:1	
+snorql/codemirror/demo/theme.html	snorql-docs	1	957	957	5	5	font:1	
+snorql/codemirror/demo/trailingspace.html	snorql-docs	1	189	189	5	5	font:1	
+snorql/codemirror/demo/variableheight.html	snorql-docs	1	762	762	5	5	font:1	
+snorql/codemirror/demo/vim.html	snorql-docs	1	1544	1544	19	19	font:1	
+snorql/codemirror/demo/visibletabs.html	snorql-docs	1	493	493	5	5	font:1	
+snorql/codemirror/demo/widget.html	snorql-docs	0	1295	1248	5	5	font:1;script:1	JSHINT is not defined
+snorql/codemirror/demo/xmlcomplete.html	snorql-docs	1	355	355	5	5	font:1	
+snorql/codemirror/doc/internals.html	snorql-docs	1	22480	22480	19	19	font:1	
+snorql/codemirror/doc/manual.html	snorql-docs	1	129688	129688	31	31	font:1	
+snorql/codemirror/doc/realworld.html	snorql-docs	1	5688	5688	166	166	font:1	
+snorql/codemirror/doc/releases.html	snorql-docs	1	56129	56129	845	845	font:1	
+snorql/codemirror/doc/reporting.html	snorql-docs	1	1393	1393	10	10	font:1	
+snorql/codemirror/doc/upgrade_v2.2.html	snorql-docs	1	2506	2506	5	5	font:1	
+snorql/codemirror/doc/upgrade_v3.html	snorql-docs	1	5251	5251	19	19	font:1	
+snorql/codemirror/doc/upgrade_v4.html	snorql-docs	1	3427	3427	13	13	font:1	
+snorql/codemirror/index.html	snorql-docs	1	3087	3087	32	32	font:1	
+snorql/codemirror/mode/apl/index.html	snorql-docs	1	1067	1067	6	6	font:1	
+snorql/codemirror/mode/asciiarmor/index.html	snorql-docs	1	378	378	6	6	font:1	
+snorql/codemirror/mode/asn.1/index.html	snorql-docs	1	644	644	6	6	font:1	
+snorql/codemirror/mode/asterisk/index.html	snorql-docs	1	799	799	6	6	font:1	
+snorql/codemirror/mode/brainfuck/index.html	snorql-docs	1	1472	1472	6	6	font:1	
+snorql/codemirror/mode/clike/index.html	snorql-docs	1	4831	4831	6	6	font:1	
+snorql/codemirror/mode/clike/scala.html	snorql-docs	1	1257	1257	6	6	font:1	
+snorql/codemirror/mode/clojure/index.html	snorql-docs	1	924	924	6	6	font:1	
+snorql/codemirror/mode/cmake/index.html	snorql-docs	1	954	954	6	6	font:1	
+snorql/codemirror/mode/cobol/index.html	snorql-docs	1	3441	3441	6	6	font:1	
+snorql/codemirror/mode/coffeescript/index.html	snorql-docs	1	1159	1159	6	6	font:1	
+snorql/codemirror/mode/commonlisp/index.html	snorql-docs	1	1308	1308	6	6	font:1	
+snorql/codemirror/mode/crystal/index.html	snorql-docs	1	792	792	6	6	font:1	
+snorql/codemirror/mode/css/gss.html	snorql-docs	1	827	827	6	6	font:1	
+snorql/codemirror/mode/css/index.html	snorql-docs	1	488	488	6	6	font:1	
+snorql/codemirror/mode/css/less.html	snorql-docs	1	978	978	6	6	font:1	
+snorql/codemirror/mode/css/scss.html	snorql-docs	1	574	574	6	6	font:1	
+snorql/codemirror/mode/cypher/index.html	snorql-docs	1	400	400	6	6	font:1	
+snorql/codemirror/mode/d/index.html	snorql-docs	1	972	972	6	6	font:1	
+snorql/codemirror/mode/dart/index.html	snorql-docs	1	637	637	6	6	font:1	
+snorql/codemirror/mode/diff/index.html	snorql-docs	1	887	887	6	6	font:1	
+snorql/codemirror/mode/django/index.html	snorql-docs	1	812	812	6	6	font:1	
+snorql/codemirror/mode/dockerfile/index.html	snorql-docs	1	1008	1008	6	6	font:1	
+snorql/codemirror/mode/dtd/index.html	snorql-docs	1	758	758	6	6	font:1	
+snorql/codemirror/mode/dylan/index.html	snorql-docs	1	1289	1289	6	6	font:1	
+snorql/codemirror/mode/ebnf/index.html	snorql-docs	1	812	812	6	6	font:1	
+snorql/codemirror/mode/ecl/index.html	snorql-docs	1	453	453	6	6	font:1	
+snorql/codemirror/mode/eiffel/index.html	snorql-docs	1	883	883	6	6	font:1	
+snorql/codemirror/mode/elm/index.html	snorql-docs	1	681	681	6	6	font:1	
+snorql/codemirror/mode/erlang/index.html	snorql-docs	1	755	755	6	6	font:1	
+snorql/codemirror/mode/factor/index.html	snorql-docs	1	770	770	6	6	font:1;stylesheet:1	
+snorql/codemirror/mode/fcl/index.html	snorql-docs	1	759	759	6	6	font:1	
+snorql/codemirror/mode/forth/index.html	snorql-docs	1	490	490	6	6	font:1;stylesheet:1	
+snorql/codemirror/mode/fortran/index.html	snorql-docs	1	1023	1023	6	6	font:1	
+snorql/codemirror/mode/gas/index.html	snorql-docs	1	736	736	6	6	font:1	
+snorql/codemirror/mode/gfm/index.html	snorql-docs	1	1017	1017	10	10	font:1	
+snorql/codemirror/mode/gherkin/index.html	snorql-docs	1	612	612	6	6	font:1	
+snorql/codemirror/mode/go/index.html	snorql-docs	1	729	729	6	6	font:1	
+snorql/codemirror/mode/groovy/index.html	snorql-docs	1	714	714	6	6	font:1	
+snorql/codemirror/mode/haml/index.html	snorql-docs	1	695	695	6	6	font:1	
+snorql/codemirror/mode/handlebars/index.html	snorql-docs	1	905	905	6	6	font:1	
+snorql/codemirror/mode/haskell-literate/index.html	snorql-docs	1	934	934	6	6	font:1	
+snorql/codemirror/mode/haskell/index.html	snorql-docs	1	879	879	6	6	font:1	
+snorql/codemirror/mode/haxe/index.html	snorql-docs	1	841	841	6	6	font:1	
+snorql/codemirror/mode/htmlembedded/index.html	snorql-docs	1	707	707	6	6	font:1	
+snorql/codemirror/mode/htmlmixed/index.html	snorql-docs	1	1517	1517	6	6	font:1	
+snorql/codemirror/mode/http/index.html	snorql-docs	1	433	433	6	6	font:1	
+snorql/codemirror/mode/idl/index.html	snorql-docs	1	549	549	6	6	font:1	
+snorql/codemirror/mode/index.html	snorql-docs	1	1475	1475	134	134	font:1	
+snorql/codemirror/mode/javascript/index.html	snorql-docs	1	1763	1763	11	11	font:1	
+snorql/codemirror/mode/javascript/json-ld.html	snorql-docs	1	858	858	6	6	font:1	
+snorql/codemirror/mode/javascript/typescript.html	snorql-docs	1	549	549	6	6	font:1	
+snorql/codemirror/mode/jinja2/index.html	snorql-docs	1	661	661	6	6	font:1	
+snorql/codemirror/mode/jsx/index.html	snorql-docs	1	905	905	6	6	font:1	
+snorql/codemirror/mode/julia/index.html	snorql-docs	1	329	329	6	6	font:1	
+snorql/codemirror/mode/livescript/index.html	snorql-docs	1	981	981	6	6	font:1	
+snorql/codemirror/mode/lua/index.html	snorql-docs	1	678	678	6	6	font:1	
+snorql/codemirror/mode/markdown/index.html	snorql-docs	1	2275	2275	12	12	font:1	
+snorql/codemirror/mode/mathematica/index.html	snorql-docs	1	1164	1164	6	6	font:1	
+snorql/codemirror/mode/mbox/index.html	snorql-docs	1	335	335	6	6	font:1	
+snorql/codemirror/mode/mirc/index.html	snorql-docs	1	1426	1426	6	6	font:1	
+snorql/codemirror/mode/mllike/index.html	snorql-docs	1	1118	1118	6	6	font:1	
+snorql/codemirror/mode/modelica/index.html	snorql-docs	1	694	694	6	6	font:1	
+snorql/codemirror/mode/mscgen/index.html	snorql-docs	1	2546	2546	6	6	font:1	
+snorql/codemirror/mode/mumps/index.html	snorql-docs	1	916	916	6	6	font:1	
+snorql/codemirror/mode/nginx/index.html	snorql-docs	1	1418	1418	6	6	font:1	
+snorql/codemirror/mode/nsis/index.html	snorql-docs	1	519	519	6	6	font:1	
+snorql/codemirror/mode/ntriples/index.html	snorql-docs	1	1035	1035	6	6	font:1	
+snorql/codemirror/mode/octave/index.html	snorql-docs	1	385	385	6	6	font:1	
+snorql/codemirror/mode/oz/index.html	snorql-docs	1	415	415	6	6	font:1	
+snorql/codemirror/mode/pascal/index.html	snorql-docs	1	466	466	6	6	font:1	
+snorql/codemirror/mode/pegjs/index.html	snorql-docs	1	727	727	6	6	font:1	
+snorql/codemirror/mode/perl/index.html	snorql-docs	1	543	543	6	6	font:1	
+snorql/codemirror/mode/php/index.html	snorql-docs	1	589	589	6	6	font:1	
+snorql/codemirror/mode/pig/index.html	snorql-docs	1	476	476	6	6	font:1	
+snorql/codemirror/mode/powershell/index.html	snorql-docs	1	668	668	6	6	font:1	
+snorql/codemirror/mode/properties/index.html	snorql-docs	1	574	574	6	6	font:1	
+snorql/codemirror/mode/protobuf/index.html	snorql-docs	1	1175	1175	6	6	font:1	
+snorql/codemirror/mode/pug/index.html	snorql-docs	1	1127	1127	6	6	font:1	
+snorql/codemirror/mode/puppet/index.html	snorql-docs	1	767	767	6	6	font:1	
+snorql/codemirror/mode/python/index.html	snorql-docs	1	2672	2672	17	17	font:1	
+snorql/codemirror/mode/q/index.html	snorql-docs	1	1567	1567	6	6	font:1	
+snorql/codemirror/mode/r/index.html	snorql-docs	1	965	965	6	6	font:1	
+snorql/codemirror/mode/rpm/changes/index.html	snorql-docs	1	1094	1094	6	6	font:1	
+snorql/codemirror/mode/rpm/index.html	snorql-docs	1	2214	2214	6	6	font:1	
+snorql/codemirror/mode/rst/index.html	snorql-docs	1	1153	1153	6	6	font:1	
+snorql/codemirror/mode/ruby/index.html	snorql-docs	1	1148	1148	6	6	font:1	
+snorql/codemirror/mode/rust/index.html	snorql-docs	1	470	470	6	6	font:1	
+snorql/codemirror/mode/sas/index.html	snorql-docs	1	499	499	6	6	font:1	
+snorql/codemirror/mode/sass/index.html	snorql-docs	1	597	597	6	6	font:1	
+snorql/codemirror/mode/scheme/index.html	snorql-docs	1	962	962	6	6	font:1	
+snorql/codemirror/mode/shell/index.html	snorql-docs	1	770	770	6	6	font:1	
+snorql/codemirror/mode/sieve/index.html	snorql-docs	1	541	541	6	6	font:1	
+snorql/codemirror/mode/slim/index.html	snorql-docs	0	877	877	6	6	font:1;script:2;stylesheet:1	$ is not defined
+snorql/codemirror/mode/smalltalk/index.html	snorql-docs	1	691	691	6	6	font:1	
+snorql/codemirror/mode/smarty/index.html	snorql-docs	1	2489	2489	9	9	font:1	
+snorql/codemirror/mode/solr/index.html	snorql-docs	1	304	304	6	6	font:1	
+snorql/codemirror/mode/soy/index.html	snorql-docs	1	564	564	6	6	font:1	
+snorql/codemirror/mode/sparql/index.html	snorql-docs	1	667	667	6	6	font:1	
+snorql/codemirror/mode/spreadsheet/index.html	snorql-docs	1	193	193	6	6	font:1	
+snorql/codemirror/mode/sql/index.html	snorql-docs	1	850	850	6	6	font:1	
+snorql/codemirror/mode/stex/index.html	snorql-docs	1	1388	1388	6	6	font:1	
+snorql/codemirror/mode/stylus/index.html	snorql-docs	1	575	575	6	6	font:1	
+snorql/codemirror/mode/swift/index.html	snorql-docs	1	720	720	6	6	font:1	
+snorql/codemirror/mode/tcl/index.html	snorql-docs	1	2184	2184	6	6	font:1	
+snorql/codemirror/mode/textile/index.html	snorql-docs	1	825	825	6	6	font:1	
+snorql/codemirror/mode/tiddlywiki/index.html	snorql-docs	1	810	810	6	6	font:1	
+snorql/codemirror/mode/tiki/index.html	snorql-docs	1	398	398	6	6	font:1	
+snorql/codemirror/mode/toml/index.html	snorql-docs	1	713	713	6	6	font:1	
+snorql/codemirror/mode/tornado/index.html	snorql-docs	1	613	613	6	6	font:1	
+snorql/codemirror/mode/troff/index.html	snorql-docs	1	1005	1005	6	6	font:1	
+snorql/codemirror/mode/ttcn-cfg/index.html	snorql-docs	1	2159	2159	6	6	font:1	
+snorql/codemirror/mode/ttcn/index.html	snorql-docs	1	1957	1957	6	6	font:1	
+snorql/codemirror/mode/turtle/index.html	snorql-docs	1	456	456	6	6	font:1	
+snorql/codemirror/mode/twig/index.html	snorql-docs	1	398	398	6	6	font:1	
+snorql/codemirror/mode/vb/index.html	snorql-docs	1	280	280	6	6	font:1;stylesheet:1	
+snorql/codemirror/mode/vbscript/index.html	snorql-docs	1	540	540	6	6	font:1	
+snorql/codemirror/mode/velocity/index.html	snorql-docs	1	639	639	6	6	font:1	
+snorql/codemirror/mode/verilog/index.html	snorql-docs	1	811	811	7	7	font:1	
+snorql/codemirror/mode/vhdl/index.html	snorql-docs	1	948	948	9	9	font:1	
+snorql/codemirror/mode/vue/index.html	snorql-docs	1	330	330	6	6	font:1	
+snorql/codemirror/mode/webidl/index.html	snorql-docs	1	1058	1058	6	6	font:1	
+snorql/codemirror/mode/xml/index.html	snorql-docs	1	887	887	6	6	font:1	
+snorql/codemirror/mode/xquery/index.html	snorql-docs	1	1201	1201	6	6	font:1	
+snorql/codemirror/mode/yacas/index.html	snorql-docs	1	788	788	6	6	font:1	
+snorql/codemirror/mode/yaml-frontmatter/index.html	snorql-docs	1	778	778	6	6	font:1	
+snorql/codemirror/mode/yaml/index.html	snorql-docs	1	758	758	6	6	font:1	
+snorql/codemirror/mode/z80/index.html	snorql-docs	1	426	426	6	6	font:1	
+snorql/codemirror/test/index.html	snorql-docs	1	697	663	5	5	font:1	
+snorql/index.html	snorql	1	643	643	1	1	script:1;stylesheet:1	
+stats-en.html	stats-en.html	1	280	292	9	9	script:2;stylesheet:3	
+stats.html	stats.html	1	154	166	9	9	script:2;stylesheet:3	
+viz-en.html	viz-en.html	1	474	486	5	5	script:1;stylesheet:3	
+viz.html	viz.html	1	198	210	5	5	script:1;stylesheet:3	
+waka-en.html	waka-en.html	0	43721	768	7	7	script:2;stylesheet:3	
+waka.html	waka.html	0	40270	538	7	7	script:2;stylesheet:3	

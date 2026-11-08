@@ -1,0 +1,125 @@
+page	group	works_offline	text_on	text_off	elems_on	elems_off	blocked	new_errors
+404.html	404.html	1	58	58	0	0		
+bibi/index.html	bibi	1	457	457	19	19		
+en/html/01.html	en	1	11976	12020	22	23	fetch:1	
+en/html/02.html	en	1	22442	22486	22	23	fetch:1	
+en/html/03.html	en	1	5410	5454	22	23	fetch:1	
+en/html/04.html	en	1	23038	23082	22	23	fetch:1	
+en/html/05.html	en	1	22736	22780	22	23	fetch:1	
+en/html/06.html	en	1	15244	15286	22	23	fetch:1	
+en/html/07.html	en	1	13368	13410	22	23	fetch:1	
+en/html/08.html	en	1	5058	5100	22	23	fetch:1	
+en/html/09.html	en	1	22091	22133	22	23	fetch:1	
+en/html/10.html	en	1	23482	23524	22	23	fetch:1	
+en/html/11.html	en	1	2024	2066	22	23	fetch:1	
+en/html/12.html	en	1	20581	20627	22	23	fetch:1	
+en/html/13.html	en	1	18726	18770	22	23	fetch:1	
+en/html/14.html	en	1	15744	15788	22	23	fetch:1	
+en/html/15.html	en	1	11398	11442	22	23	fetch:1	
+en/html/16.html	en	1	2404	2448	22	23	fetch:1	
+en/html/17.html	en	1	9041	9085	22	23	fetch:1	
+en/html/18.html	en	1	10210	10254	22	23	fetch:1	
+en/html/19.html	en	1	14724	14766	22	23	fetch:1	
+en/html/20.html	en	1	10026	10068	22	23	fetch:1	
+en/html/21.html	en	1	24284	24326	22	23	fetch:1	
+en/html/22.html	en	1	19477	19519	22	23	fetch:1	
+en/html/23.html	en	1	7071	7113	22	23	fetch:1	
+en/html/24.html	en	1	10112	10154	22	23	fetch:1	
+en/html/25.html	en	1	9410	9456	22	23	fetch:1	
+en/html/26.html	en	1	10691	10735	22	23	fetch:1	
+en/html/27.html	en	1	1765	1809	22	23	fetch:1	
+en/html/28.html	en	1	8781	8825	22	23	fetch:1	
+en/html/29.html	en	1	13432	13476	22	23	fetch:1	
+en/html/30.html	en	1	6833	6877	22	23	fetch:1	
+en/html/31.html	en	1	17648	17692	22	23	fetch:1	
+en/html/32.html	en	1	9049	9093	22	23	fetch:1	
+en/html/33.html	en	1	11167	11209	22	23	fetch:1	
+en/html/34.html	en	1	48930	48972	22	23	fetch:1	
+en/html/35.html	en	1	49269	49311	22	23	fetch:1	
+en/html/36.html	en	1	19403	19449	22	23	fetch:1	
+en/html/37.html	en	1	8910	8954	22	23	fetch:1	
+en/html/38.html	en	1	6985	7029	22	23	fetch:1	
+en/html/39.html	en	1	34078	34122	22	23	fetch:1	
+en/html/40.html	en	1	9068	9112	22	23	fetch:1	
+en/html/41.html	en	1	10259	10303	22	23	fetch:1	
+en/html/42.html	en	1	6623	6665	22	23	fetch:1	
+en/html/43.html	en	1	6160	6202	22	23	fetch:1	
+en/html/44.html	en	1	19453	19495	22	23	fetch:1	
+en/html/45.html	en	1	18215	18257	22	23	fetch:1	
+en/html/46.html	en	1	17750	17792	22	23	fetch:1	
+en/html/47.html	en	1	42520	42562	22	23	fetch:1	
+en/html/48.html	en	1	8892	8938	22	23	fetch:1	
+en/html/49.html	en	1	44472	44516	22	23	fetch:1	
+en/html/50.html	en	1	30676	30720	22	23	fetch:1	
+en/html/51.html	en	1	34131	34175	22	23	fetch:1	
+en/html/52.html	en	1	27306	27348	22	23	fetch:1	
+en/html/53.html	en	1	31242	31284	22	23	fetch:1	
+en/html/54.html	en	1	8289	8331	22	23	fetch:1	
+en/index.html	en	1	8420	8420	400	400		
+en/stats.html	en	1	355	355	20	20		
+en/viz.html	en	1	549	549	9	9		
+en/waka.html	en	1	43796	43796	805	805		
+google42e5d8b9a7f8c8d9.html	verification	1	53	53	0	0		
+html/01.html	html	1	11966	12010	22	23	fetch:1	
+html/02.html	html	1	22432	22476	22	23	fetch:1	
+html/03.html	html	1	5400	5444	22	23	fetch:1	
+html/04.html	html	1	23028	23072	22	23	fetch:1	
+html/05.html	html	1	22726	22770	22	23	fetch:1	
+html/06.html	html	1	15234	15276	22	23	fetch:1	
+html/07.html	html	1	13358	13400	22	23	fetch:1	
+html/08.html	html	1	5048	5090	22	23	fetch:1	
+html/09.html	html	1	22081	22123	22	23	fetch:1	
+html/10.html	html	1	23472	23514	22	23	fetch:1	
+html/11.html	html	1	2014	2056	22	23	fetch:1	
+html/12.html	html	1	20571	20617	22	23	fetch:1	
+html/13.html	html	1	18716	18760	22	23	fetch:1	
+html/14.html	html	1	15734	15778	22	23	fetch:1	
+html/15.html	html	1	11388	11432	22	23	fetch:1	
+html/16.html	html	1	2394	2438	22	23	fetch:1	
+html/17.html	html	1	9031	9075	22	23	fetch:1	
+html/18.html	html	1	10200	10244	22	23	fetch:1	
+html/19.html	html	1	14714	14756	22	23	fetch:1	
+html/20.html	html	1	10016	10058	22	23	fetch:1	
+html/21.html	html	1	24274	24316	22	23	fetch:1	
+html/22.html	html	1	19467	19509	22	23	fetch:1	
+html/23.html	html	1	7061	7103	22	23	fetch:1	
+html/24.html	html	1	10102	10144	22	23	fetch:1	
+html/25.html	html	1	9400	9446	22	23	fetch:1	
+html/26.html	html	1	10681	10725	22	23	fetch:1	
+html/27.html	html	1	1755	1799	22	23	fetch:1	
+html/28.html	html	1	8771	8815	22	23	fetch:1	
+html/29.html	html	1	13422	13466	22	23	fetch:1	
+html/30.html	html	1	6823	6867	22	23	fetch:1	
+html/31.html	html	1	17638	17682	22	23	fetch:1	
+html/32.html	html	1	9039	9083	22	23	fetch:1	
+html/33.html	html	1	11157	11199	22	23	fetch:1	
+html/34.html	html	1	48920	48962	22	23	fetch:1	
+html/35.html	html	1	49259	49301	22	23	fetch:1	
+html/36.html	html	1	19393	19439	22	23	fetch:1	
+html/37.html	html	1	8900	8944	22	23	fetch:1	
+html/38.html	html	1	6975	7019	22	23	fetch:1	
+html/39.html	html	1	34068	34112	22	23	fetch:1	
+html/40.html	html	1	9058	9102	22	23	fetch:1	
+html/41.html	html	1	10249	10293	22	23	fetch:1	
+html/42.html	html	1	6613	6655	22	23	fetch:1	
+html/43.html	html	1	6150	6192	22	23	fetch:1	
+html/44.html	html	1	19443	19485	22	23	fetch:1	
+html/45.html	html	1	18205	18247	22	23	fetch:1	
+html/46.html	html	1	17740	17782	22	23	fetch:1	
+html/47.html	html	1	42510	42552	22	23	fetch:1	
+html/48.html	html	1	8882	8928	22	23	fetch:1	
+html/49.html	html	1	44462	44506	22	23	fetch:1	
+html/50.html	html	1	30666	30710	22	23	fetch:1	
+html/51.html	html	1	34121	34165	22	23	fetch:1	
+html/52.html	html	1	27296	27338	22	23	fetch:1	
+html/53.html	html	1	31232	31274	22	23	fetch:1	
+html/54.html	html	1	8279	8321	22	23	fetch:1	
+index-en.html	index-en.html	1	8420	8420	400	400		
+index.html	index.html	1	5645	5645	400	400		
+schema/tei_kouigenji.html	schema	1	178969	180088	3069	3069	stylesheet:2	
+stats-en.html	stats-en.html	1	355	355	20	20		
+stats.html	stats.html	1	216	216	20	20		
+viz-en.html	viz-en.html	1	549	549	9	9		
+viz.html	viz.html	1	260	260	9	9		
+waka-en.html	waka-en.html	1	43796	43796	805	805		
+waka.html	waka.html	1	40332	40332	805	805		
