@@ -1,0 +1,15 @@
+F0	{"checked": 793, "mismatch": 0, "no_event": 0}
+F0r	{"checked": 793, "mismatch": 0, "no_event": 0}
+F1-01	{"checked": 793, "mismatch": 0, "no_event": 0}
+F2	subprocess.CalledProcessError: Command '['7z', 'x', '-y', '/w/runs/F2/aip.7z', '-o/tmp/tmph3rragwu', '*/data/METS.*.xml', '-r']' returned non-zero exit status 2.
+F3	{"checked": 793, "mismatch": 0, "no_event": 0}
+F4	{"checked": 793, "mismatch": 0, "no_event": 0}
+F5	{"checked": 793, "mismatch": 0, "no_event": 0}
+F6	{"checked": 793, "mismatch": 2, "no_event": 0}
+F7	{"checked": 793, "mismatch": 1, "no_event": 0}
+F8	{"checked": 793, "mismatch": 1, "no_event": 0}
+F9	{"checked": 793, "mismatch": 2, "no_event": 0}
+F10	{"checked": 793, "mismatch": 1, "no_event": 0}
+F11	{"checked": 0, "mismatch": 0, "no_event": 793}
+F12	{"checked": 793, "mismatch": 0, "no_event": 0}
+F13	{"checked": 793, "mismatch": 0, "no_event": 0}

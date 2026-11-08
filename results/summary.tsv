@@ -1,0 +1,16 @@
+case	change	records_updated	check_A	check_B	check_C	check_B_L5_zip_only	in_table_3
+F0	No change (control)	none	0/1	0/1	0/1	0/1	yes
+F0r	No change; 7z repacked (control)	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	0/1	1/1	0/1	yes
+F1	Flip 1 random bit of the 7z (10 repeats)	none	10/10	10/10	10/10	4/10	yes
+F2	Cut the last 1 MB of the 7z	none	1/1	1/1	1/1	0/1	no
+F3	Flip 1 bit of the source zip inside the AIP	7z, SHA-256	1/1	1/1	1/1	1/1	yes
+F4	F3 with BagIt manifests updated	7z, SHA-256, BagIt manifests	1/1	1/1	1/1	1/1	no
+F5	Flip 1 bit of a TEI file in the extracted copy (zip intact)	7z, SHA-256	1/1	1/1	1/1	0/1	no
+F6	Change 1 character of the TEI text (still schema-valid)	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	1/1	1/1	1/1	yes
+F7	Delete 1 TEI file (1 chapter)	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	1/1	1/1	1/1	yes
+F8	Delete an XSLT file required by the build	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	1/1	1/1	1/1	no
+F9	Make a TEI file schema-invalid (seg to sgg)	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	1/1	1/1	1/1	no
+F10	Change 1 character of TEI in the extracted copy only (zip intact)	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	0/1	1/1	0/1	yes
+F11	Delete all PREMIS events	7z, SHA-256, BagIt manifests, PREMIS objects	0/1	0/1	1/1	0/1	yes
+F12	F6 with PREMIS event digests updated	7z, SHA-256, BagIt manifests, PREMIS objects, PREMIS events	0/1	1/1	1/1	1/1	no
+F13	F10 with PREMIS event digests updated	7z, SHA-256, BagIt manifests, PREMIS objects, PREMIS events	0/1	0/1	1/1	0/1	no
